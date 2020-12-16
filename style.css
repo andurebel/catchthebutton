@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(241, 241, 241);
+}
+
+button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: rgb(105, 105, 226);
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: large;
+  border: solid 3px rgb(207, 141, 17);
+  box-shadow: 5px 10px 10px #000;
+}
